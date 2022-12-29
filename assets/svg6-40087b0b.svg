@@ -1,0 +1,31 @@
+<svg id="svg6" xmlns="http://www.w3.org/2000/svg" width="143" height="147" viewBox="0 0 143 147">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #cedae9;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-width: 1px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f1f3f7;
+      }
+
+      .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #e8f2ff;
+        stroke: #4e9cfc;
+      }
+    </style>
+  </defs>
+  <rect id="圆角矩形_6_拷贝_4" data-name="圆角矩形 6 拷贝 4" class="cls-1" x="0.5" y="0.5" width="142" height="146" rx="24" ry="24"/>
+  <path id="圆角矩形_13_拷贝" data-name="圆角矩形 13 拷贝" class="cls-2" d="M1614.8,1141.95h85.79a4.2,4.2,0,1,1,0,8.39H1614.8A4.2,4.2,0,0,1,1614.8,1141.95Zm0,15.1h56.82a4.2,4.2,0,0,1,0,8.4H1614.8A4.2,4.2,0,0,1,1614.8,1157.05Zm-18.09,71.32h106.06a4.2,4.2,0,1,1,0,8.39H1596.71A4.2,4.2,0,1,1,1596.71,1228.37Zm0,15.1h77.09a4.2,4.2,0,0,1,0,8.4h-77.09A4.2,4.2,0,0,1,1596.71,1243.47Z" transform="translate(-1577.5 -1125.5)"/>
+  <circle id="椭圆_8_拷贝" data-name="椭圆 8 拷贝" class="cls-3" cx="20.84" cy="27.78" r="8"/>
+  <path id="圆角矩形_17" data-name="圆角矩形 17" class="cls-4" d="M1603.21,1180.52h93.76a10,10,0,0,1,10,10v13.59a10,10,0,0,1-10,10h-93.76a10,10,0,0,1-10-10v-13.59A10,10,0,0,1,1603.21,1180.52Z" transform="translate(-1577.5 -1125.5)"/>
+</svg>

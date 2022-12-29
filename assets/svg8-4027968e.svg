@@ -1,0 +1,17 @@
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e3ebf5;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: #1f86ff;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_23" data-name="椭圆 23" class="cls-1" cx="28" cy="28" r="27.5"/>
+  <rect id="矩形_502" data-name="矩形 502" class="cls-2" x="12.5" y="27.5" width="31" height="3" rx="1.5" ry="1.5"/>
+</svg>
